@@ -300,7 +300,7 @@ SEC. 201. GAIN FROM DISPOSITION OF DIGITAL ASSETS.
 
 "(b) Limitation.—
 
-"(1) In general.—The amount of gain or loss excluded from gross income under subsection (a) with respect to a sale or exchange shall not exceed $200.
+"(1) In general.—The amount of gain or loss excluded from gross income under subsection (a) with respect to a sale or exchange shall not exceed $100,000.
 
 "(2) Aggregation rule.—For purposes of this subsection, all sales or exchanges which are part of the same transaction (or a series of related transactions) shall be treated as one sale or exchange.
 
@@ -314,7 +314,7 @@ SEC. 201. GAIN FROM DISPOSITION OF DIGITAL ASSETS.
 
 "(2) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting ‘calendar year 2022’ for ‘calendar year 2016’ in subparagraph (A)(ii) thereof.
 
-Any increase determined under the preceding sentence shall be rounded to the nearest multiple of $50.".
+Any increase determined under the preceding sentence shall be rounded to the nearest multiple of $100.".
 
 (b) Clerical Amendment.—The table of sections for part III of subchapter B of chapter 1 of the Internal Revenue Code of 1986 is amended by inserting after the item relating to section 139I the following new item:
 
@@ -414,7 +414,7 @@ SEC. 205. TAX TREATMENT OF DIGITAL ASSET LENDING AGREEMENTS AND RELATED MATTERS.
 
 "(d) Securities.—For purposes of this section, the term ‘securities’ has the meaning given such term by section 1236(c), except that such term includes any digital asset (as defined in section 9801 of title 31, United States Code) and, with respect to a digital asset, does not require a call option.
 
-"(e) Income.—An amount equal to the income which would otherwise accrue to the lender but for a lending transaction under this section shall be included in gross income of the lender.".
+"(e) Income.—An amount equal to the income which would otherwise accrue to the lender but for a lending transaction under this section shall be included in gross income of the lender. The value of any digital assets received will be assed at the moment the lender has control over the digital assets".
 
 (e) Rule of Construction.—Nothing in this section shall be construed to create any inference with respect to the classification of any digital asset as security under the Securities Act of 1933 (15 U.S.C. 77a et seq.) or the Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.).
 
@@ -426,15 +426,15 @@ SEC. 205. TAX TREATMENT OF DIGITAL ASSET LENDING AGREEMENTS AND RELATED MATTERS.
 
 SEC. 206. IMPLEMENTING EFFECTIVE IRS GUIDANCE.
 
-(a) In General.—Not later than 1 year after the date of the enactment of this Act, the Secretary of the Treasury (or the Secretary’s delegate) shall adopt guidance relating to the following:
+(a) In General.—Not later than 90 days after the date of the enactment of this Act, the Secretary of the Treasury (or the Secretary’s delegate) shall adopt guidance relating to the following:
 
-(1) Classification of forks, airdrops, and similar subsidiary value as taxable, contingent upon the affirmative claim and disposition of the subsidiary value by a taxpayer. Such guidance shall also permit a taxpayer to provide notification through an annual return or other appropriate means to the Internal Revenue Service relating to claim and disposition of, or disclaimer of, subsidiary value.
+(1) Classification of forks, airdrops, and similar subsidiary value as taxable at the time the user sells the asset in question, contingent upon the affirmative claim and disposition of the subsidiary value by a taxpayer. Such guidance shall also permit a taxpayer to provide notification through an annual return or other appropriate means to the Internal Revenue Service relating to claim and disposition of, or disclaimer of, subsidiary value.
 
 (2) Merchant acceptance of digital assets and the tax treatment of payments and receipts, consistent with the amendments made by section 80603 of the Infrastructure Investment and Jobs Act, as amended by section 203.
 
 (3) Treatment of digital asset mining and staking, including mining and staking rewards, in which income is not realized until disposition of the assets produced or received in connection with such activity, in accordance with section 451(l) of the Internal Revenue Code of 1986 (as added by this Act).
 
-(4) Classification of charitable contributions greater than $5,000 of digital assets which are traded on established financial markets as contributions of readily valued property not requiring a qualified appraisal for purposes of section 170(f)(11)(A) of the Internal Revenue Code of 1986, as amended by this Act.
+(4) Classification of charitable contributions greater than $60,000 of digital assets which are traded on established financial markets as contributions of readily valued property not requiring a qualified appraisal for purposes of section 170(f)(11)(A) of the Internal Revenue Code of 1986, as amended by this Act.
 
 (5) Characterization of payment stablecoins (as defined in section 9801 of title 31, United States Code) as indebtedness.
 
@@ -484,7 +484,7 @@ SEC. 208. DIGITAL ASSET MINING AND STAKING.
 
 "(l) Deferral of Income Recognition for Digital Asset Activities.—In the case of a taxpayer who conducts digital asset mining or staking activities, the amount of income relating to such activities shall not be included in the gross income of the taxpayer until the taxable year of the disposition of the assets produced or received in connection with the mining or staking activities.".
 
-(b) Effective Date.—The amendment made by this section shall apply to taxable years beginning after December 31, 2022.
+(b) Effective Date.—The amendment made by this section shall apply to taxable years beginning after December 31, 2021.
 
 &nbsp;
 
